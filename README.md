@@ -17,4 +17,4 @@ Will not be moved
 
 Not a comprehensive list.  Just the most asked about.
 
-* ack-and-a-half: I no longer maintain this.  Needs a clean-room re-implementation.
+* ack-and-a-half: I no longer maintain this.  Needs a clean-room re-implementation.  There's a fork [here](https://github.com/mgalgs/ack-and-a-half).
